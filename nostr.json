@@ -1,0 +1,15 @@
+{
+    "names": {
+      "wahid": "6e2599401df3ce4ef732e0650f77679d500e5e5aadb0965c93fd124a6e221844",
+      "_": "6e2599401df3ce4ef732e0650f77679d500e5e5aadb0965c93fd124a6e221844"
+    },
+    "relays": {
+      "6e2599401df3ce4ef732e0650f77679d500e5e5aadb0965c93fd124a6e221844": [
+        "wss://nos.lol",
+        "wss://relay.damus.io",
+        "wss://relay.nostr.band",
+        "wss://relay.snort.social",
+        "wss://relay.nostr.nu"
+      ]
+    }
+  }
